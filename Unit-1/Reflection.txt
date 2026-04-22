@@ -1,1 +1,10 @@
-This folder contains Unit 1 work.
+In Unit 1, I learned how the web works, including the relationship between clients and servers. 
+Before this unit, I did not fully understand what happens when I type a website into a browser. 
+Now I understand that the browser sends a request to a server, and the server responds with files like HTML, CSS, and JavaScript.
+
+One challenge I had was understanding how all the different parts work together, especially the roles of servers and browsers. 
+At first, it felt abstract, but after going through examples and diagrams, it became clearer.
+
+This unit helped me build a foundation for web development. 
+Understanding how websites are loaded and displayed will help me when I create my own portfolio, 
+because I now know how the files I write are actually used in a real website.
