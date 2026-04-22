@@ -1,0 +1,11 @@
+During the brainstorming process, I explored different ideas for how my website could look and function. 
+I created a simple idea board to organize my thoughts, including possible color schemes, layout ideas, and content sections.
+
+I considered using a clean and simple design with a limited color palette, focusing on readability and easy navigation. 
+I also thought about how users would move through the website, so I planned to include a clear navigation bar and organized sections such as Home, About, and Projects.
+
+I sketched a basic layout of the homepage to visualize where elements like the header, navigation bar, and content sections would be placed. 
+This helped me better understand how the website would be structured before starting to build it.
+
+One key takeaway from this process is that planning the design in advance makes it easier to build the website later. 
+It also helped me focus on user experience by thinking about how users will interact with the site.
