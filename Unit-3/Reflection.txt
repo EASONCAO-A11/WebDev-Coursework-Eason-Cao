@@ -1,0 +1,5 @@
+Unit 3 focuses on guiding me through the full process of creating a client web page, starting from understanding who the client is to actually building the first version of their site. 
+In Lesson 1, I've learn the overall structure of the project: how to select a client, how to read sample client profiles, and how the project steps move from research to design to coding. 
+Lesson 2 shifts to communication skills, teaching you how to prepare for and conduct a client interview, ask empathic questions, define the client’s core problem, and brainstorm possible solutions before beginning the coding challenge. 
+The optional sample client profiles provide additional practice by showing real interview notes from different clients, helping me to analyze needs and translate them into design ideas. Altogether, Unit 3 trains you to empathize with a client, define their goals clearly, 
+generate creative ideas, and begin building a web page that reflects their needs.
