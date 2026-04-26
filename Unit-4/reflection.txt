@@ -1,0 +1,15 @@
+In Unit 4, I gained a much deeper understanding of why accessibility is an essential part of modern web design. 
+Before this unit, I mostly thought about how a website looks, but now I realize that a truly effective website 
+must also be usable by people with different abilities, devices, and needs. Learning about accessibility tools 
+such as screen readers and text‑to‑speech software helped me see how important it is to provide meaningful alt text, 
+clear structure, and semantic HTML. These small details can completely change how someone experiences a webpage.
+
+Adding images to my client page also became more intentional. Instead of just placing a picture for decoration, 
+I learned to think about what information the image conveys and how it supports the user’s understanding. 
+Writing descriptive alt text made me consider the purpose of each image and how someone who cannot see the picture 
+would still understand the content.
+
+Overall, Unit 4 taught me that accessibility is not an extra feature — it is a responsibility. 
+When a website is accessible, more people can use and engage with the content, 
+and the design becomes more inclusive and thoughtful. Moving forward, I will continue to 
+evaluate my pages with accessibility in mind and make sure every design choice supports a wider range of users.
