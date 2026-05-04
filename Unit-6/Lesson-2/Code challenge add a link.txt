@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Client Page</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>Welcome to My Client's Page</h1>
+
+    <p>Learn more about cooking here:</p>
+
+    <a href="https://www.bbcgoodfood.com" target="_blank">
+        Visit Cooking Website
+    </a>
+</body>
+</html>
+
+
+
+a {
+    color: #e74c3c;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #c0392b;
+    text-decoration: underline;
+}
+
+
+
+let link = document.getElementById("myLink");
+
+link.addEventListener("click", function() {
+    alert("You are leaving this site!");
+});
