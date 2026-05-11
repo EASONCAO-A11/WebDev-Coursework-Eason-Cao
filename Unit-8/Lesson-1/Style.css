@@ -1,0 +1,146 @@
+/* --- Core Variables --- */
+:root {
+    --bg-color: #0d1117;
+    --panel-bg: rgba(22, 27, 34, 0.7);
+    --accent-green: #2ea043;
+    --accent-glow: #3fb950;
+    --text-primary: #c9d1d9;
+    --text-muted: #8b949e;
+    --border-color: #30363d;
+    --font-main: 'Courier New', Courier, monospace;
+}
+
+/* --- Global Reset --- */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: var(--bg-color);
+    background-image: radial-gradient(circle at top right, #1f2937 0%, transparent 40%);
+    color: var(--text-primary);
+    font-family: var(--font-main);
+    line-height: 1.6;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+/* --- Typography --- */
+h1, h2, h3 {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: var(--accent-glow);
+    margin-bottom: 0.5rem;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: var(--text-primary);
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: var(--accent-green);
+}
+
+/* --- Layout Elements --- */
+.tactical-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.5rem 3rem;
+    border-bottom: 1px solid var(--border-color);
+    background: rgba(13, 17, 23, 0.9);
+}
+
+.tactical-header .logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: var(--accent-green);
+    text-shadow: 0 0 10px rgba(46, 160, 67, 0.4);
+}
+
+.tactical-header nav ul {
+    display: flex;
+    gap: 2rem;
+}
+
+main {
+    flex: 1;
+    padding: 3rem;
+    max-width: 1200px;
+    margin: 0 auto;
+    width: 100%;
+}
+
+/* --- UI Textures: Frosted Acrylic --- */
+.glass-panel, .frosted-acrylic {
+    background: var(--panel-bg);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border: 1px solid var(--border-color);
+    border-left: 4px solid var(--accent-green);
+    padding: 2rem;
+    margin-bottom: 2rem;
+    border-radius: 4px;
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.3);
+}
+
+.hero {
+    text-align: center;
+    border-left: 1px solid var(--border-color); 
+    border-top: 4px solid var(--accent-green);
+}
+
+.hero p {
+    color: var(--text-muted);
+    margin: 1rem 0 2rem;
+}
+
+/* --- Interactive Elements --- */
+.action-btn {
+    background: transparent;
+    color: var(--accent-green);
+    border: 1px solid var(--accent-green);
+    padding: 0.8rem 2rem;
+    font-family: inherit;
+    font-size: 1rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.action-btn:hover {
+    background: var(--accent-green);
+    color: var(--bg-color);
+    box-shadow: 0 0 15px rgba(46, 160, 67, 0.5);
+}
+
+/* --- Basic Structure --- */
+.container {
+    display: flex;
+    gap: 2rem;
+    flex-wrap: wrap;
+}
+
+.card {
+    flex: 1;
+    min-width: 300px;
+}
+
+.tactical-footer {
+    text-align: center;
+    padding: 1.5rem;
+    border-top: 1px solid var(--border-color);
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    background: #090c10;
+}

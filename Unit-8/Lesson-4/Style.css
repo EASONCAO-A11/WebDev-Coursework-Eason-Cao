@@ -1,0 +1,35 @@
+/* --- Fluid Grid & Flexible Images --- */
+.layout-container {
+    width: 90%; /* Fluid width */
+    margin: 0 auto;
+}
+
+img {
+    max-width: 100%; /* Flexible image: never wider than its container */
+    height: auto;    /* Maintains aspect ratio */
+}
+
+.content-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2%; /* Percentage gap for fluidity */
+}
+
+.module {
+    flex: 1 1 30%; /* Grows and shrinks, base size is 30% */
+    background: #161b22;
+    padding: 20px;
+}
+
+/* --- Media Queries for Layout Shifts --- */
+@media (max-width: 768px) {
+    .module {
+        flex: 1 1 45%; /* Shifts to 2 columns on tablets */
+    }
+}
+
+@media (max-width: 480px) {
+    .module {
+        flex: 1 1 100%; /* Shifts to 1 column on mobile */
+    }
+}
