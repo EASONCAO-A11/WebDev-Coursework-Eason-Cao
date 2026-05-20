@@ -1,0 +1,1 @@
+console.log("JS loaded - navigation ready for enhancements!");
