@@ -1,0 +1,7 @@
+Observation of Interactivity on Websites
+
+When I explored websites that I often visit, I noticed several interactive elements, such as buttons that open menus, image sliders, forms with validation, and hover effects on links. Using the browser’s Developer Tools, I inspected the code behind these elements and found that JavaScript was commonly used to manage interactivity. For example, functions were attached to buttons or events like onclick, onmouseover, or onsubmit, which allowed the website to respond dynamically to user actions.
+
+I noticed that the code often uses event listeners to trigger changes on the page without reloading, such as displaying hidden content, changing images, or validating input. The interactivity makes the websites feel responsive and engaging, and users can get immediate feedback on their actions. Additionally, some websites used small libraries or frameworks, like jQuery or React, to simplify these interactive features.
+
+Overall, what stands out is that JavaScript is essential for enhancing the user experience, allowing websites to be dynamic rather than static. Observing these implementations gives me ideas for my own portfolio, such as adding click events to project links, hover effects on images, or simple pop-ups to make the page more engaging.
