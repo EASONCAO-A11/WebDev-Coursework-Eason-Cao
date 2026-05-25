@@ -1,0 +1,17 @@
+Accessibility is important in web design because it ensures that everyone—regardless of ability, age, device, or situation—can use and understand a website. It’s not just about supporting users with permanent disabilities like vision or motor impairments, but also people with temporary limitations (like a broken arm or poor lighting) or situational challenges (like using a phone in bright sunlight). In other words, accessibility makes the web more inclusive, usable, and fair.
+
+From a practical standpoint, it also improves overall user experience and often overlaps with good design practices like clarity, structure, and responsiveness. Many accessibility improvements—such as better contrast or clearer navigation—benefit all users, not just specific groups.
+
+In my own web design projects, I made accessibility a key consideration in several ways.
+
+One of the main things I focused on was color contrast. I avoided using light text on light backgrounds or low-contrast color combinations. For example, in one project with a clean, minimal UI style, I initially used light gray text on a white background for a softer aesthetic. However, I revised it to darker text after testing contrast ratios to ensure readability, especially for users with visual impairments.
+
+Another important step was ensuring keyboard navigation worked properly. I checked that all interactive elements—such as buttons, forms, and navigation menus—could be accessed using the Tab key alone. In one of my projects with a dropdown navigation menu, I had to adjust the focus states so users could clearly see which element was selected while navigating without a mouse.
+
+I also added proper semantic HTML structure. Instead of relying heavily on `<div>` elements, I used tags like `<header>`, `<nav>`, `<main>`, and `<footer>`. This helped screen readers interpret the page structure correctly. In a blog-style project, I also made sure headings followed a logical order (H1 → H2 → H3), which improved both accessibility and SEO.
+
+For images, I included meaningful alt text instead of leaving empty or generic descriptions. For example, instead of writing “image1,” I described the actual content like “solar panels on a residential rooftop at sunset.” This made the content understandable for users relying on screen readers.
+
+Finally, I ensured responsiveness across devices so that the layout adapted well to different screen sizes. This helped users who rely on mobile devices or zoomed-in views. I tested layouts on both desktop and mobile to ensure text didn’t overlap or become difficult to read.
+
+Overall, accessibility became less of a checklist and more of a mindset. It encouraged me to design with empathy and to assume a wider range of users than just the “average” visitor.

@@ -1,0 +1,7 @@
+When I first started learning web design, I felt both excited and nervous. I was interested in creating websites, but I was not very confident in my ability to learn coding and apply the technical skills needed to design web pages. At first, HTML, CSS, and JavaScript seemed complicated and difficult to understand.
+
+One reservation I had about taking this course was that I thought web development would be too challenging for me, especially when working with code and fixing errors. I was also worried that I would struggle to make my websites look professional and organized.
+
+At the same time, I was hoping to learn how websites are created and how design and coding work together. I wanted to gain practical skills that would allow me to build my own web pages and express creativity through design.
+
+Since starting the course, my skills and confidence have improved a lot. I learned how to structure web pages using HTML, style them with CSS, and add interactivity with JavaScript. I also became more comfortable solving problems and experimenting with different design ideas. Now I feel much more confident in my ability to create functional and visually appealing websites, and I have a better understanding of the web development process overall.

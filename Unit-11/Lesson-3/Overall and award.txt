@@ -1,0 +1,15 @@
+After completing this basic web design course, I now see several possible directions I can take to continue developing my skills and moving toward a more advanced level. The foundation I’ve built in HTML, CSS, design principles, and user experience gives me multiple paths to explore depending on what I want to focus on in the future.
+
+One option I am interested in is continuing with more advanced learning, especially in JavaScript and interactive web development. I would like to move beyond static websites and start building more dynamic, functional applications. Learning frameworks such as React also seems like a natural next step, as it would allow me to create more complex and efficient user interfaces.
+
+In terms of specialization, I feel particularly drawn to front-end development and UX/UI design. I enjoy the visual and interactive side of web design, especially making layouts feel clean, intuitive, and user-friendly. At the same time, I am also interested in improving my technical coding skills so I can better understand how design and functionality work together. Because of this, I think front-end development is currently the area that fits me best, although I may gradually explore full-stack development in the future.
+
+Another strong option for me is building more real-world projects. I think this is one of the best ways to improve because it combines creativity, problem-solving, and technical skills. I would like to create my own personal portfolio website and possibly small project-based websites that focus on real topics or interests. This would also help me build a stronger portfolio for future opportunities.
+
+Looking ahead, I am also interested in exploring UX design more deeply, especially how users interact with websites and how design decisions affect usability. Learning more about user research, wireframing, and prototyping tools would help me design more thoughtful and effective interfaces.
+
+When thinking about career paths, I am most interested in becoming a front-end developer or UX/UI designer. These roles match my interests in both design and user experience. I like the idea of working on the visual and interactive side of websites, while also making sure they are functional and accessible. In the long term, I could also see myself working as a full-stack developer once I gain more confidence in back-end technologies.
+
+To guide my next steps, I’ve realized that I should continue asking myself what kind of work I enjoy most—whether it is designing layouts, solving coding problems, or improving user experiences. I also want to think about what tools and technologies I am most motivated to learn, and how I can consistently practice through personal or freelance-style projects.
+
+Overall, I feel like this course has given me a strong starting point. The next step for me is to keep building, experimenting, and challenging myself with more advanced projects so I can continue growing from a beginner into a more confident and skilled web developer.

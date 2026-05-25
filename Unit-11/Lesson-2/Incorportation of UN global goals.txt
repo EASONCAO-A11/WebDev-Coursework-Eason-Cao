@@ -1,0 +1,13 @@
+Learning about the United Nations Global Goals (also known as the Sustainable Development Goals, or SDGs) really changed how I think about web design—not just as something visual or technical, but as something that can influence behavior, awareness, and even decision-making.
+
+Before engaging with the SDGs, my focus in web design was mostly on usability, layout, and aesthetics. But once I explored the Global Goals, I started to see websites as communication tools that can highlight real-world issues and encourage action.
+
+One of the biggest influences was the idea of “design with purpose.” Instead of choosing colors, images, and content only for visual appeal, I began asking: what message is this design reinforcing? For example, if a project relates to environmental themes, I would intentionally use calmer, nature-inspired color palettes and imagery that emphasizes sustainability, such as clean energy or reduced waste. This directly connects to SDG 13 (Climate Action) and SDG 12 (Responsible Consumption and Production).
+
+In terms of structure, I also started integrating clearer information hierarchy and call-to-action sections inspired by SDG advocacy websites. Many SDG-related platforms use simple, accessible layouts to make global issues understandable to a wide audience. I adopted similar approaches by simplifying navigation, reducing clutter, and making important content more prominent so users can quickly understand the key message.
+
+Another key integration was accessibility. Learning about SDG 10 (Reduced Inequalities) made me more conscious of designing for all users, including those with disabilities. I paid more attention to contrast ratios, readable typography, and responsive design so that content could be accessed across devices and by users with different needs.
+
+I also experimented with embedding SDG icons and references directly into project pages, especially when the theme of the website aligned with specific goals. This helped give context and made the connection between the design and global issues more explicit rather than abstract.
+
+Overall, the SDGs shifted my mindset from “How do I make this look good?” to “How does this design communicate responsibility, awareness, and impact?” It encouraged me to think more critically about the role of design in shaping user perception and contributing, even in small ways, to global awareness.

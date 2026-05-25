@@ -1,0 +1,15 @@
+In my web design projects, I learned that following best practices isn’t just about making a site look polished—it directly affects usability, performance, and how effectively users interact with content. Over time, I started applying these principles more intentionally rather than treating them as optional improvements.
+
+One of the most important best practices I applied was maintaining a clear visual hierarchy. I learned to structure pages so that users can immediately understand what is most important. This meant using larger headings for key messages, breaking content into smaller sections, and using spacing to separate ideas. In one of my projects, I redesigned a dense homepage by grouping related content into sections with clear headings, which made the page feel much easier to scan and understand.
+
+Consistency in design was another key practice. I made sure to use a unified color palette, consistent button styles, and predictable layout patterns across all pages. In an earlier version of one project, different pages had slightly different button colors and spacing, which made the site feel disjointed. After standardizing these elements, the website felt more professional and cohesive, and users could navigate it more intuitively.
+
+I also learned the importance of responsive design. I used flexible layouts and media queries so that content adapted properly to different screen sizes. For example, a multi-column layout on desktop was converted into a single-column layout on mobile. This significantly improved usability on smaller devices, especially for users who primarily browse on phones.
+
+Performance optimization was another area I focused on. I optimized images by compressing them and avoiding unnecessarily large files, which improved loading speed. I also avoided overloading pages with heavy scripts or unnecessary animations. As a result, the websites loaded faster and felt smoother, which reduced user drop-off.
+
+Another best practice I applied was improving navigation structure. I ensured that menus were simple, logical, and easy to follow. Instead of having too many nested pages, I grouped related content together and kept navigation labels clear and descriptive. This reduced confusion and helped users find information more quickly.
+
+I also paid attention to readability by choosing appropriate font sizes, line spacing, and contrast. This made long sections of text easier to read and reduced visual fatigue, especially on mobile devices.
+
+Overall, applying these best practices significantly improved the quality of my websites. They became more user-friendly, visually consistent, and accessible across devices. More importantly, it shifted my approach from just “building pages” to designing thoughtful user experiences where clarity, speed, and usability are always prioritized.

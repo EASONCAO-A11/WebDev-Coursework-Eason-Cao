@@ -1,0 +1,18 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    background-color: #f4f4f4;
+    margin-top: 50px;
+}
+
+.profile {
+    width: 250px;
+    height: auto;
+    border-radius: 15px;
+    border: 4px solid #2c3e50;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+}
