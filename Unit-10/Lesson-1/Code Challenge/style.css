@@ -29,7 +29,7 @@ body {
 /* Button styling */
 button {
     padding: 10px 20px;
-    font-size: 16px;
+    font-size: 0.8rem; /* converted from 16px */
     cursor: pointer;
     margin-top: 15px;
     border: none;
